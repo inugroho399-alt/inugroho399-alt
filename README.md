@@ -14,7 +14,7 @@
 - 💍 Sedang membangun **[Nikaha](https://nikaha.my.id)** — platform undangan pernikahan digital multi-tenant
 - 🚀 Fokus di **Next.js**, **Tailwind CSS**, dan **Supabase**
 - 🌱 Terus belajar arsitektur web modern & AI-assisted development
-- 📫 Bisa dihubungi lewat: *(tambahkan email/IG/LinkedIn kamu di sini)*
+- 📫 Bisa dihubungi lewat: inugroho399@gmail.com
 
 ---
 
