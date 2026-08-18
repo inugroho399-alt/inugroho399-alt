@@ -104,7 +104,7 @@ const ilham = {
 <div align="center">
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=inugroho399-alt&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C4B5FD&icon_color=8b5cf6&text_color=c9d1d9&ring_color=8b5cf6&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inugroho399-alt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C4B5FD&text_color=c9d1d9&langs_count=8" height="170"/>
+<img src="github-readme-stats-red-tau-39.vercel.app/api/top-langs/?username=inugroho399-alt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C4B5FD&text_color=c9d1d9&langs_count=8" height="170"/>
 
 <img src="https://streak-stats.demolab.com/?user=inugroho399-alt&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=C4B5FD&currStreakLabel=C4B5FD" height="170"/>
 
