@@ -8,7 +8,7 @@
 
 <a href="https://nikaha.my.id"><img src="https://img.shields.io/badge/🚀_Live_Product-Nikaha-8B5CF6?style=for-the-badge&labelColor=1a1625" /></a>
 <img src="https://img.shields.io/badge/📍_Indonesia-C4B5FD?style=for-the-badge&labelColor=1a1625" />
-<img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&label=Profile+Views&color=8b5cf6&style=for-the-badge&labelColor=1a1625" />
+<img src="https://komarev.com/ghpvc/?username=inugroho399-alt&label=Profile+Views&color=8b5cf6&style=for-the-badge&labelColor=1a1625" />
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <!-- Contribution snake -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/inugroho399-alt/inugroho399-alt/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 <br/>
@@ -103,14 +103,14 @@ const ilham = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C4B5FD&icon_color=8b5cf6&text_color=c9d1d9&ring_color=8b5cf6&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C4B5FD&text_color=c9d1d9&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=inugroho399-alt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C4B5FD&icon_color=8b5cf6&text_color=c9d1d9&ring_color=8b5cf6&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inugroho399-alt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C4B5FD&text_color=c9d1d9&langs_count=8" height="170"/>
 
-<img src="https://streak-stats.demolab.com/?user=USERNAME_KAMU&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=C4B5FD&currStreakLabel=C4B5FD" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=inugroho399-alt&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=C4B5FD&currStreakLabel=C4B5FD" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_KAMU&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=C4B5FD&line=8B5CF6&point=ffffff&area=true" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=inugroho399-alt&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=C4B5FD&line=8B5CF6&point=ffffff&area=true" width="97%"/>
 
 </div>
 
@@ -120,7 +120,7 @@ const ilham = {
 <summary><b>🏆 GitHub Trophies (klik untuk buka)</b></summary>
 <br>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME_KAMU&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=inugroho399-alt&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 </details>
 
