@@ -89,8 +89,8 @@ const ilham = {
 | Slug-based routing per mempelai | ✅ Live |
 | Sistem tema modular (`themeRegistry.js`) | ✅ Live |
 | RSVP & guest management (Supabase) | ✅ Live |
-| Dynamic metadata per tenant | 🔧 In progress |
-| Template ke-2 & ke-3 | 🔧 In progress |
+| Dynamic metadata per tenant | ✅ Live |
+| Template ke-2 & ke-3 | ✅ Live |
 
 </td>
 </tr>
