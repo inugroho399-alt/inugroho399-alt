@@ -84,13 +84,6 @@ const ilham = {
 
 `Next.js App Router` `Tailwind CSS` `Supabase` `Vercel`
 
-| Fitur | Status |
-|---|---|
-| Slug-based routing per mempelai | ✅ Live |
-| Sistem tema modular (`themeRegistry.js`) | ✅ Live |
-| RSVP & guest management (Supabase) | ✅ Live |
-| Dynamic metadata per tenant | ✅ Live |
-| Template ke-2 & ke-3 | ✅ Live |
 
 </td>
 </tr>
@@ -105,7 +98,6 @@ const ilham = {
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=inugroho399-alt&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C4B5FD&icon_color=8b5cf6&text_color=c9d1d9&ring_color=8b5cf6&count_private=true" height="170"/>
 
-<img &theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=C4B5FD&currStreakLabel=C4B5FD" height="170"/>
 
 <br/>
 
