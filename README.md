@@ -110,11 +110,11 @@ const ilham = {
 <details>
 <summary><b>🏆 GitHub Trophies (klik untuk buka)</b></summary>
 <br>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=inugroho399-alt)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=inugroho399-alt&show_icons=true&theme=radical" alt="GitHub Stats" />
+</a>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=inugroho399-alt&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
+
 </details>
 
 <br/>
