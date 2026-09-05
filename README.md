@@ -111,7 +111,7 @@ const ilham = {
 <summary><b>🏆 GitHub Trophies (klik untuk buka)</b></summary>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=inugroho399-alt&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
 </a>
 
 
