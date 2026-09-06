@@ -101,8 +101,6 @@ const ilham = {
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=inugroho399-alt&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=C4B5FD&line=8B5CF6&point=ffffff&area=true" width="97%"/>
-
 </div>
 
 <br/>
