@@ -36,7 +36,7 @@ Lagi fokus bikin sistem tema modular biar bisa scale ke banyak desain undangan t
 
 ```js
 const ilham = {
-  role: "Full-Stack Developer",
+  role: "Front-End Developer",
   campus: "UDB Surakarta",
   major: "Teknik Informatika",
   building: "Nikaha 💍",
