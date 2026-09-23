@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=Hi,%20I'm%20Ilham%20👋&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20·%20Founder%20@%20Nikaha%20💍&descAlignY=55&descSize=17&descColor=C4B5FD" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=Hi,%20I'm%20Ilham%20👋&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Front-End%20Developer%20·%20Founder%20@%20Nikaha%20💍&descAlignY=55&descSize=17&descColor=C4B5FD" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=650&lines=Teknik+Informatika+%40+UDB+Surakarta;Building+Nikaha+%F0%9F%92%8D+nikaha.my.id;Next.js+%C2%B7+Tailwind+%C2%B7+Supabase;Turning+Coffee+Into+Code+%E2%98%95" alt="Typing SVG" />
 
